@@ -1,2 +1,4 @@
 This is file2.txt
 This is a change
+
+This is a pull related change
